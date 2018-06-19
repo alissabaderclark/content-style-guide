@@ -1,4 +1,4 @@
-# Welcome to the MailChimp Content Style Guide
+# Welcome to the Alissa's Content Style Guide
 
 This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
 
