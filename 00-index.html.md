@@ -3,6 +3,7 @@ title: Welcome to my Example Content Style Guide
 layout: article
 ---
 
-This style guide is based upon [MailChimp's Content Style Guide on GitHub](https://github.com/mailchimp/content-style-guide).
+This example style guide is based upon [MailChimp's Content Style Guide on GitHub](https://github.com/MailChimp/content-style-guide). This project was edited in [Atom](https://atom.io/).
 
-We welcome any feedback for improving the guide.
+I welcome any feedback for improving the guide.
+(mailto:alissabaderclark@gmail.com)

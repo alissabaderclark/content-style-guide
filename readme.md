@@ -2,13 +2,13 @@
 
 This style guide is primarily for MailChimp employees, but we hope it’s helpful to other organizations as well.
 
-If you're looking for the MailChimp Content Style Guide website, visit [styleguide.mailchimp.com](http://styleguide.mailchimp.com).
+If you're looking for the MailChimp Content Style Guide website, visit [styleguide.MailChimp.com](http://styleguide.MailChimp.com).
 
 Whether or not you work at MailChimp, we welcome your thoughts and suggestions. To learn more about sending us feedback or adapting this guide to create your own, see the Contributing file.
 
 ## Using the Guide
 
-We've written a [blog post](http://devs.mailchimp.com/blog/how-we-built-the-mailchimp-content-style-guide/) and set up an [example Middleman project](https://github.com/mailchimp/middleman-with-md-submodule-example).
+We've written a [blog post](http://devs.MailChimp.com/blog/how-we-built-the-MailChimp-content-style-guide/) and set up an [example Middleman project](https://github.com/MailChimp/middleman-with-md-submodule-example).
 
 ## Creating a New File
 

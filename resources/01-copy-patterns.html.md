@@ -34,13 +34,13 @@ layout: article
 
 ### On the website
 
-- About MailChimp
+- About OurProduct
 - Abuse Desk
 - API Docs
 - Application Feedback
 - Blog
 - Brand Assets
-- Contact MailChimp
+- Contact OurProduct
 - Email Design Reference
 - Experts
 - Features
@@ -284,11 +284,11 @@ layout: article
 
 ### On the website
 
-- Contact MailChimp
+- Contact OurProduct
 - Existing Users
 - Get Started With a Free Account
 - Log In
-- MailChimp Experts Application
+- OurProduct Experts Application
 - Report Email Abuse
 - SOC II Report Request
 
@@ -331,7 +331,7 @@ layout: article
 - Email address
 - First name
 - Last name
-- MailChimp username
+- OurProduct username
 - Message
 - Name
 - Subject
@@ -375,7 +375,7 @@ layout: article
 - Calculate your monthly costs
 - Find [item]
 - Follow us [in/on/around a location]
-- Learn more about MailChimp
+- Learn more about OurProduct
 - Please [perform action].
 - Sign up for [specific mailing list]
 - Sign up to [receive specific notifications]
